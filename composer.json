@@ -1,0 +1,22 @@
+{
+    "name": "sunnanbei/worst-password",
+    "description": "弱口令验证",
+    "type": "library",
+    "homepage": "https://github.com/TheSunNanbei/worst-password.git",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "孙南北",
+            "email": "nanbei.sun@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "NanBei\\WorstPassword\\": "src/"
+        }
+    }
+}

@@ -2,6 +2,7 @@
     "name": "sunnanbei/worst-password",
     "description": "弱口令校验",
     "License": "MIT License",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "孙南北",

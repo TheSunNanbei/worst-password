@@ -1,15 +1,17 @@
 {
     "name": "sunnanbei/worst-password",
-    "autoload": {
-        "psr-4": {
-            "Sunnanbei\\WorstPassword\\": "src/"
-        }
-    },
+    "description": "弱口令校验",
     "authors": [
         {
             "name": "孙南北",
             "email": "nanbei.sun@gmail.com"
         }
     ],
-    "require": {}
+    "homepage": "https://github.com/TheSunNanbei/worst-password.git",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sunnanbei\\WorstPassword\\": "src/"
+        }
+    }
 }

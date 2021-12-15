@@ -1,5 +1,5 @@
 <?php
-namespace NanBei\WorstPassword;
+namespace Sunnanbei\WorstPassword;
 
 use Closure;
 class FileLoader

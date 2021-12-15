@@ -1,5 +1,5 @@
 <?php
-namespace NanBei\WorstPassword;
+namespace Sunnanbei\WorstPassword;
 
 class Worst
 {

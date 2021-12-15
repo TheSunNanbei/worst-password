@@ -1,5 +1,5 @@
 *.DS_Store
 .idea
-/vendor
+vendor
 test.php
 composer.lock
